@@ -38,6 +38,7 @@ dependencies:
   get: ^4.6.5
   google_fonts: ^4.0.4
   sqflite: ^2.2.8+4
+  sizer: ^2.0.15
 
 dev_dependencies:
   flutter_test:

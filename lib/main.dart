@@ -1,3 +1,4 @@
+
 import 'package:expence_tracker/screen/homeScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -7,7 +8,7 @@ void main() {
     GetMaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/': (p0) => HomeScreen(),
+        '/': (p0) => Transaction_Screen(),
       },
     ),
   );
